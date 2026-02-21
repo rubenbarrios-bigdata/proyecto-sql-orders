@@ -1,6 +1,6 @@
 # 📊 Proyecto de Análisis de Ventas con SQL (MySQL)
 
-Este proyecto consiste en el desarrollo y análisis de una base de datos en *MySQL*, orientada al estudio de órdenes de venta.  
+Este proyecto consiste en el desarrollo y análisis exploratorio (EDA) de una base de datos en *MySQL*, orientada al estudio de órdenes de venta.  
 
 El objetivo principal fue aplicar consultas SQL para explorar la información, obtener métricas clave y reforzar fundamentos de análisis de datos trabajando sobre una estructura relacional.
 
