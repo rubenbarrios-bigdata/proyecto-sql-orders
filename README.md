@@ -76,19 +76,22 @@ Se realizaron análisis como:
 ### 9. Total de registros
 ![Resultado](images/3_total_registros.png)
 
-### 10. Ventas por categoría
+### 10. Ventas totales
+![Resultado](images/4_ventas_totales.png)
+
+### 11. Ventas por categoría
 ![Resultado](images/5_ventas_por_categoría.png)
 
-### 11. Ventas por región
+### 12. Ventas por región
 ![Resultado](images/6_ventas_por_región.png)
 
-### 12. Top 10 clientes por volumen de compra
+### 13. Top 10 clientes por volumen de compra
 ![Resultado](images/7_top10_clientes_volumen_compra.png)
 
-### 13. Rentabilidad por categoría
+### 14. Rentabilidad por categoría
 ![Resultado](images/8_rentabilidad_por_categoría.png)
 
-### 14. Ventas mensuales
+### 15. Ventas mensuales
 ![Resultado](images/9_ventas_mensuales.png)
 
 ---
