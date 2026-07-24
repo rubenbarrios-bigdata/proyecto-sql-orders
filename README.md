@@ -49,49 +49,48 @@ Se realizaron análisis como:
 
 ## 🖼️ Resultados visuales
 
-### 1. Consulta del periodo de ventas
+### 0. Consulta del periodo de ventas
 ![Resultado](images/0_consulta_periodo_ventas.png)
 
-### 2. Validación inicial de datos
+### 1. Validación inicial de datos
 ![Resultado](images/1_validación_inicial_datos_limit5.png)
 
-### 3. Consulta de valores nulos
+### 2. Validación y calidad de los datos
+### 2.1. Verificación de valores nulos
 ![Resultado](images/2.1_consulta_valores_nulos.png)
 
-### 4. Verificación de registros duplicados
+### 2.2. Verificación de registros duplicados
 ![Resultado](images/2.2_verificación_registros_duplicados.png)
 
-### 5. Verificación de valores negativos
+### 2.3. Verificación de valores negativos
 ![Resultado](images/2.3_verificaci%C3%B3n_%20valores_negativos.png)
 
-### 6. Cuantificación de órdenes con pérdidas
+### 2.4. Cuantificación de órdenes con pérdidas
 ![Resultado](images/2.4_cuantificaci%C3%B3n_%C3%B3rdenes_con%20p%C3%A9rdidas.png)
 
-### 7. Impacto porcentual de órdenes con pérdidas
+### 2.5. Impacto porcentual de órdenes con pérdidas
+![Resultado](images/2.5_impacto_porcentual_órdenes_con_pérdidas.png)
 ![Resultado](images/2.5.1_impacto_porcentual_órdenes_con_pérdidas.png)
 
-### 8. Impacto porcentual de órdenes con pérdidas (detalle)
-![Resultado](images/2.5_impacto_porcentual_órdenes_con_pérdidas.png)
-
-### 9. Total de registros
+### 3. Cantidad total de registros
 ![Resultado](images/3_total_registros.png)
 
-### 10. Ventas totales
+### 4. Ventas totales
 ![Resultado](images/4_ventas_totales.png)
 
-### 11. Ventas por categoría
+### 5. Ventas por categoría
 ![Resultado](images/5_ventas_por_categoría.png)
 
-### 12. Ventas por región
+### 6. Ventas por región
 ![Resultado](images/6_ventas_por_región.png)
 
-### 13. Top 10 clientes por volumen de compra
+### 7. Top 10 clientes por volumen de compra
 ![Resultado](images/7_top10_clientes_volumen_compra.png)
 
-### 14. Rentabilidad por categoría
+### 8. Rentabilidad por categoría
 ![Resultado](images/8_rentabilidad_por_categoría.png)
 
-### 15. Ventas mensuales
+### 9. Ventas mensuales
 ![Resultado](images/9_ventas_mensuales.png)
 
 ---
