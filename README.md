@@ -110,7 +110,7 @@ Se realizaron análisis como:
 
 Este proyecto se enfoca en la exploración y análisis de datos mediante consultas SQL estructuradas, con el objetivo de consolidar fundamentos sólidos en manipulación, agregación y análisis descriptivo dentro de MySQL.
 
-El trabajo se centra en la interpretación de información, cálculo de métricas clave y organización de resultados para su posterior documentación y presentación como proyecto de portafolio.
+El trabajo se centra en la interpretación de información, cálculo de métricas clave y organización de resultados.
 
 ---
 
