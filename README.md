@@ -47,6 +47,25 @@ Se realizaron análisis como:
 
 ---
 
+## 🖼️ Resultados visuales
+
+![Consulta periodo de ventas](images/0_consulta_periodo_ventas.png)
+![Validación inicial datos](images/1_validación_inicial_datos_limit5.png)
+![Consulta valores nulos](images/2.1_consulta_valores_nulos.png)
+![Verificación registros duplicados](images/2.2_verificación_registros_duplicados.png)
+![Verificación valores negativos](images/2.3_verificación_ valores_negativos.png)
+![Cuantificación órdenes con pérdidas](images/2.4_cuantificación_órdenes_con pérdidas.png)
+![Impacto porcentual órdenes con pérdidas](images/2.5.1_impacto_porcentual_órdenes_con_pérdidas.png)
+![Impacto porcentual órdenes con pérdidas](images/2.5_impacto_porcentual_órdenes_con_pérdidas.png)
+![Total registros](images/3_total_registros.png)
+![Ventas por categoría](images/5_ventas_por_categoría.png)
+![Ventas por región](images/6_ventas_por_región.png)
+![Top 10 clientes por volumen de compra](images/7_top10_clientes_volumen_compra.png)
+![Rentabilidad por categoría](images/8_rentabilidad_por_categoría.png)
+![Ventas mensuales](images/9_ventas_mensuales.png)
+
+---
+
 ## 🎯 Habilidades demostradas
 
 - Diseño y comprensión de base de datos relacional
