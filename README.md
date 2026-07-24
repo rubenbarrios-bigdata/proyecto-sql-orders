@@ -69,10 +69,8 @@ Se realizaron análisis como:
 ![Resultado](images/2.4_cuantificaci%C3%B3n_%C3%B3rdenes_con%20p%C3%A9rdidas.png)
 
 ### 2.5. Impacto porcentual de órdenes con pérdidas
-![Resultado](images/2.5.1_impacto_porcentual_órdenes_con_pérdidas.png)
-
-### 2.5.1. Impacto porcentual de órdenes con pérdidas (detalle)
 ![Resultado](images/2.5_impacto_porcentual_órdenes_con_pérdidas.png)
+![Resultado](images/2.5.1_impacto_porcentual_órdenes_con_pérdidas.png)
 
 ### 3. Cantidad total de registros
 ![Resultado](images/3_total_registros.png)
