@@ -62,10 +62,10 @@ Se realizaron análisis como:
 ![Resultado](images/2.2_verificación_registros_duplicados.png)
 
 ### 5. Verificación de valores negativos
-![Resultado](images/2.3_verificación_ valores_negativos.png)
+![Resultado](images/2.3_verificaci%C3%B3n_%20valores_negativos.png)
 
 ### 6. Cuantificación de órdenes con pérdidas
-![Resultado](images/2.4_cuantificación_órdenes_con pérdidas.png)
+![Resultado](images/2.4_cuantificaci%C3%B3n_%C3%B3rdenes_con%20p%C3%A9rdidas.png)
 
 ### 7. Impacto porcentual de órdenes con pérdidas
 ![Resultado](images/2.5.1_impacto_porcentual_órdenes_con_pérdidas.png)
